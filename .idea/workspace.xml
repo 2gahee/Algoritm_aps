@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c087be20-46e3-43dd-bee3-4ea908a5e80b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0802/123.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16268/16268.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16268/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List1-1/sample_input (1).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List1-1/sample_output (2).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List1-2/1208_Flatten.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List1-2/1208_Flatten_help.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List1-2/input (6).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List2-2/1210_Ladder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String2/4861.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1206.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1-1/1206.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1208_Flatten.executor": "Run",
-    "Python.1208_Flatten_help.executor": "Run",
-    "Python.1221.executor": "Debug",
-    "Python.16268.executor": "Run",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1208_Flatten.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1208_Flatten_help.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1221.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.16268.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Algoritm_aps\16268" />
