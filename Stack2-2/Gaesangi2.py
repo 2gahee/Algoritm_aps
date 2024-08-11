@@ -7,7 +7,7 @@ for tc in range(1,11):
     arr = list(input())  # input받아오는 리스트
     stack = []
     lst = []  # 후위표기법으로 전환한거 담은 리스트
-    icp = {'+': 1, '*': 2}  # 연산자 우선순위
+    # icp = {'+': 1, '*': 2}  # 연산자 우선순위
     # 연산자는 스택에 넣음
 
     for i in range(N):
