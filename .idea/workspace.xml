@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c087be20-46e3-43dd-bee3-4ea908a5e80b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/List1-1/4835.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List1-1/Bubblesort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List1-1/sample_input (2).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List2-1/1966.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List2-1/input (8).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack2-2/토너먼트카드_재귀.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack2-2/후위표기법변환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1220.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List2-1/21492.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List2-1/21492_sol2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List2-2/18094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List2-2/4843.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List2-2/input10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List2-2/sample_input (4).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input (9).txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack2-2/Gaesangi2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack2-2/Gaesangi2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List1-1/18075.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1-1/18075.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List1-1/gravity.py" beforeDir="false" afterPath="$PROJECT_DIR$/List1-1/gravity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List2-2/1966.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2-2/1966.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List2-2/6485.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2-2/6485.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List2-2/9386.py" beforeDir="false" afterPath="$PROJECT_DIR$/List2-2/9386.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,33 +44,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1208_Flatten.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1208_Flatten_help.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1221.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.16268.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1966.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4835.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4866_sol2.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Algoritm_aps/List2-1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1208_Flatten.executor": "Run",
+    "Python.1208_Flatten_help.executor": "Run",
+    "Python.1220.executor": "Run",
+    "Python.1221.executor": "Debug",
+    "Python.16268.executor": "Run",
+    "Python.18075.executor": "Run",
+    "Python.18094.executor": "Run",
+    "Python.1966 (1).executor": "Run",
+    "Python.1966.executor": "Run",
+    "Python.21492.executor": "Run",
+    "Python.4835.executor": "Run",
+    "Python.4843.executor": "Run",
+    "Python.4866_sol2.executor": "Run",
+    "Python.6485.executor": "Run",
+    "Python.9386.executor": "Run",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Algoritm_aps/List2-1"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Algoritm_aps\List2-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Algoritm_aps" />
+      <recent name="D:\Algoritm_aps\List2-2" />
+      <recent name="D:\Algoritm_aps\List2-1" />
       <recent name="D:\Algoritm_aps\List1-1" />
       <recent name="D:\Algoritm_aps\16268" />
-      <recent name="D:\Algoritm_aps\List1-2" />
-      <recent name="C:\aps12\0802" />
-      <recent name="C:\aps12\1989" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1966">
-    <configuration name="16268" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1220">
+    <configuration name="1220" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="aps12" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16268" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16268/16268.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1220.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +100,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1966" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18075" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aps12" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List1-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List1-1/18075.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="18094" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="aps12" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List2-2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List2-2/18094.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="21492" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="aps12" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List2-1/1966.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List2-1/21492.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4835" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4843" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="aps12" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,55 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List1-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List2-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List1-1/4835.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4866_sol2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="aps12" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack1/4866_sol2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Bubblesort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="aps12" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List1-1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Algoritm_aps\List1-1\Bubblesort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List2-2/4843.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1966" />
-        <item itemvalue="Python.4835" />
-        <item itemvalue="Python.Bubblesort" />
-        <item itemvalue="Python.4866_sol2" />
-        <item itemvalue="Python.16268" />
+        <item itemvalue="Python.1220" />
+        <item itemvalue="Python.4843" />
+        <item itemvalue="Python.21492" />
+        <item itemvalue="Python.18094" />
+        <item itemvalue="Python.18075" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +239,30 @@
           <url>file://$PROJECT_DIR$/List1-2/1208_Flatten.py</url>
           <line>3</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/List2-1/1966.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/List2-2/6485.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/List1-1/gravity.py</url>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/List2-2/18094.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/List2-1/21492.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

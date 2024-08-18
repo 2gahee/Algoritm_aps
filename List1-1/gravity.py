@@ -1,6 +1,6 @@
 import sys
 
-sys.stdin = open('sample_input.txt')
+sys.stdin = open('input.txt')
 
 N = int(input())  # 전체 테케
 
